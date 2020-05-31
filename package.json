@@ -1,0 +1,11 @@
+{
+  "name": "bank-dashboard",
+  "version": "1.0.0",
+  "description": "Personal Financial dashboard",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "James Oyanna",
+  "license": "ISC"
+}
